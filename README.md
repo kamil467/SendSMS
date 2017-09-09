@@ -1,2 +1,2 @@
 # SendSMS
-Scheduling SMS on Android device f  
+Scheduling SMS on Android device
